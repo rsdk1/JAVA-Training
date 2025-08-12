@@ -31,4 +31,12 @@ This is where I practice Java programming concepts, write example programs, and 
 ⸻
 
 ## ▶ How to Run
-	1.	Clone the repository:
+	1.	Clone this repository:
+   git clone https://github.com/<your-username>/<your-repo-name>.git
+____
+
+   AUTHOR : RajaSuma.D.K
+   Linkedin: www.linkedin.com/in/rsdk
+   Github: https://github.com/rsdk1
+   Website: https://rsdk.my.canva.site/
+   
